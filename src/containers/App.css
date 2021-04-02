@@ -1,0 +1,26 @@
+
+
+.App {
+  text-align: center;
+  background-image: url("../images/sky-cloud-1.png");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat; 
+  background-attachment: fixed;
+
+  height: 100vmax;
+  width: 100%;
+  
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
+
+.page-footer {
+  text-align:right;
+  font-size: 1rem;
+  color: var(--text_light);
+  margin-top: 130px;
+}
