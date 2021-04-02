@@ -1,6 +1,8 @@
 # Getting Started with Create React App
-It is a simple Weather App made with React, CSS3 and Bootstrap.
-https://user-images.githubusercontent.com/67078790/113364434-158d9d80-9319-11eb-93a0-31b23e4c51d7.gif
+It is a simple Weather App made with React, CSS3 and Bootstrap.     
+
+
+![Demo](https://user-images.githubusercontent.com/67078790/113364434-158d9d80-9319-11eb-93a0-31b23e4c51d7.gif)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
